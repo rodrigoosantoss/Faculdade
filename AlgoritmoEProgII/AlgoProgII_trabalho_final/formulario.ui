@@ -183,8 +183,8 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>174</x>
-      <y>372</y>
+      <x>240</x>
+      <y>360</y>
       <width>91</width>
       <height>31</height>
      </rect>
@@ -201,7 +201,31 @@
 color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
-     <string>Enviar</string>
+     <string>ENVIAR</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>360</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(109, 121, 147);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>MENU</string>
     </property>
    </widget>
   </widget>
